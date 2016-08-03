@@ -1,4 +1,4 @@
-arget_date1 <- as.Date("2007/02/01")
+target_date1 <- as.Date("2007/02/01")
 target_date2 <- as.Date("2007/02/02")
 power<-read.csv("household_power_consumption.txt", header=TRUE, sep=";")
 # keey entries only for target dates
